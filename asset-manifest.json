@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e263d78.chunk.css",
+    "main.js": "/static/js/main.c5a21431.chunk.js",
+    "main.js.map": "/static/js/main.c5a21431.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.574d4e1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.574d4e1c.js.map",
+    "static/js/2.633b5054.chunk.js": "/static/js/2.633b5054.chunk.js",
+    "static/js/2.633b5054.chunk.js.map": "/static/js/2.633b5054.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.651ef077c810d37cfa49864bc5f93b63.js": "/precache-manifest.651ef077c810d37cfa49864bc5f93b63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5e263d78.chunk.css.map": "/static/css/main.5e263d78.chunk.css.map",
+    "static/js/2.633b5054.chunk.js.LICENSE.txt": "/static/js/2.633b5054.chunk.js.LICENSE.txt",
+    "static/media/tanveer.jpg": "/static/media/tanveer.64a2da37.jpg",
+    "static/media/technical.png": "/static/media/technical.45f4e6b2.png",
+    "static/media/App.css": "/static/media/technical2.4e2fb141.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.574d4e1c.js",
+    "static/js/2.633b5054.chunk.js",
+    "static/css/main.5e263d78.chunk.css",
+    "static/js/main.c5a21431.chunk.js"
+  ]
+}
